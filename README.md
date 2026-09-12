@@ -9,7 +9,7 @@ A simple task management application that allows users to create, manage, and tr
 - 🗑️ Delete tasks
 - 📌 Mark tasks as completed
 - 🔍 Search tasks
-- 📊 View task statistics
+- 📊 View task statistics   
 - 📱 Responsive user interface
 
 ## 🛠️ Tech Stack
