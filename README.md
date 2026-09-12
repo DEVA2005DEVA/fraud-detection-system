@@ -4,7 +4,7 @@ A simple task management application that allows users to create, manage, and tr
 
 ## ✨ Features 
 
-- ✅ Create new tasks
+- ✅ Create new tasks...
 - 📝 Edit existing tasks
 - 🗑️ Delete tasks
 - 📌 Mark tasks as completed
