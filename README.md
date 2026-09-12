@@ -1,6 +1,6 @@
 # 🚀 Task Manager
 
-A simple task management application that allows users to create, manage, and track their daily tasks.
+A simple task management application that allows users to create, manage, and track their daily tasks. 
 
 ## ✨ Features 
 
