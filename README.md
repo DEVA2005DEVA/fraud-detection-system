@@ -2,7 +2,7 @@
 
 A simple task management application that allows users to create, manage, and track their daily tasks.
 
-## ✨ Features
+## ✨ Features 
 
 - ✅ Create new tasks
 - 📝 Edit existing tasks
